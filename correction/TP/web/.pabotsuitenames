@@ -1,0 +1,6 @@
+datasources:7b8126881422e837648017a3ab2da9e6006e7320
+commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
+suitesfrom:no-suites-from-option
+file:1ff0ef24379d4324801c614f57861459c7a195bd
+--suite Web.Prestashop
+--suite Web.Prestavar

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="testFrais.TestAvecMock" time="0.709" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\orsys\Downloads\TPOTT-main\TPOTT-main\TP\testFrais\target\test-classes;C:\Users\orsys\Downloads\TPOTT-main\TPOTT-main\TP\testFrais\target\classes;C:\Users\orsys\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.2\junit-jupiter-engine-5.5.2.jar;C:\Users\orsys\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\orsys\.m2\repository\org\junit\platform\junit-platform-engine\1.5.2\junit-platform-engine-1.5.2.jar;C:\Users\orsys\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\orsys\.m2\repository\org\junit\platform\junit-platform-commons\1.5.2\junit-platform-commons-1.5.2.jar;C:\Users\orsys\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.2\junit-jupiter-api-5.5.2.jar;C:\Users\orsys\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.5.2\junit-jupiter-params-5.5.2.jar;C:\Users\orsys\.m2\repository\org\easymock\easymock\5.7.0\easymock-5.7.0.jar;C:\Users\orsys\.m2\repository\net\bytebuddy\byte-buddy\1.18.12\byte-buddy-1.18.12.jar;C:\Users\orsys\.m2\repository\org\ow2\asm\asm\9.10.1\asm-9.10.1.jar;C:\Users\orsys\.m2\repository\org\objenesis\objenesis\3.6\objenesis-3.6.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_431\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\orsys\AppData\Local\Temp\surefire5447568935009346294\surefirebooter-20260918120025798_3.jar C:\Users\orsys\AppData\Local\Temp\surefire5447568935009346294 2026-09-18T12-00-25_098-jvmRun1 surefire-20260918120025798_1tmp surefire_0-20260918120025798_2tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\orsys\Downloads\TPOTT-main\TPOTT-main\TP\testFrais\target\test-classes;C:\Users\orsys\Downloads\TPOTT-main\TPOTT-main\TP\testFrais\target\classes;C:\Users\orsys\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.2\junit-jupiter-engine-5.5.2.jar;C:\Users\orsys\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\orsys\.m2\repository\org\junit\platform\junit-platform-engine\1.5.2\junit-platform-engine-1.5.2.jar;C:\Users\orsys\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\orsys\.m2\repository\org\junit\platform\junit-platform-commons\1.5.2\junit-platform-commons-1.5.2.jar;C:\Users\orsys\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.2\junit-jupiter-api-5.5.2.jar;C:\Users\orsys\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.5.2\junit-jupiter-params-5.5.2.jar;C:\Users\orsys\.m2\repository\org\easymock\easymock\5.7.0\easymock-5.7.0.jar;C:\Users\orsys\.m2\repository\net\bytebuddy\byte-buddy\1.18.12\byte-buddy-1.18.12.jar;C:\Users\orsys\.m2\repository\org\ow2\asm\asm\9.10.1\asm-9.10.1.jar;C:\Users\orsys\.m2\repository\org\objenesis\objenesis\3.6\objenesis-3.6.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\orsys"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\jdk1.8.0_431\jre"/>
+    <property name="basedir" value="C:\Users\orsys\Downloads\TPOTT-main\TPOTT-main\TP\testFrais"/>
+    <property name="style.color" value="always"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\orsys\AppData\Local\Temp\surefire5447568935009346294\surefirebooter-20260918120025798_3.jar;C:\\Users\\orsys\\.m2\\repository\\org\\jacoco\\org.jacoco.agent\\0.8.14\\org.jacoco.agent-0.8.14-runtime.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jdk1.8.0_431\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_431\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_431\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_431\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_431\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_431\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_431\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="java.runtime.version" value="1.8.0_431-b10"/>
+    <property name="user.name" value="orsys"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_431\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="localRepository" value="C:\Users\orsys\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\orsys\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_431"/>
+    <property name="user.dir" value="C:\Users\orsys\Downloads\TPOTT-main\TPOTT-main\TP\testFrais"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_431\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/eclipse-java-2026-06-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.11.v20260515-1531/jre/bin/server;C:/Program Files/eclipse-java-2026-06-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.11.v20260515-1531/jre/bin;C:\opt\Ruby40-x64\bin;C:\Python314\Scripts\;C:\Python314\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\opt\apache-ant-1.10.17\bin;C:\opt\nodejs\node_modules\npm;C:\Program Files\GitHubDesktop\bin;C:\opt\apache-jmeter-5.6.3\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\opt\play-java-starter-example\sbt-dist\bin;C:\opt\apache-maven-3.9.16\bin;C:\Program Files\Microsoft VS Code\bin;C:\opt\MinGW\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-21.0.6\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\Git\cmd;C:\Program Files\Go\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\orsys\.cargo\bin;C:\Users\orsys\AppData\Local\Microsoft\WindowsApps;C:\Users\orsys\AppData\Local\Microsoft\WindowsApps;C:\Program Files\sfdx\bin;C:\Program Files\GitHubDesktop\bin;C:\Users\orsys\AppData\Local\GitHubDesktop\bin;%PyCharm Community Edition%;C:\Program Files\JetBrains\IntelliJ IDEA 2026.2\bin;C:\Program Files\JetBrains\PyCharm 2026.1.4\bin;C:\Users\orsys\go\bin;C:\Users\orsys\AppData\Roaming\npm;C:\Program Files\eclipse-java-2026-06-R-win32-x86_64\eclipse;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.431-b10"/>
+    <property name="java.specification.maintenance.version" value="6"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_431\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="test3" classname="test3()" time="0.686"/>
+</testsuite>

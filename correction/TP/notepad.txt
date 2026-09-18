@@ -1,0 +1,11 @@
+/html/body/main/header/div[2]/div/div[1]/div[2]/div[2]/form/input[2]
+//*[@id="search_widget"]/form/input[2]
+#search_widget > form > input.ui-autocomplete-input
+
+
+
+//*[@id="facet_90742"]/li[1]/label/span
+//*[@id="facet_76725"]/li[1]/label/span
+
+
+//*[@id="facet_77819"]/li[1]/label/span
