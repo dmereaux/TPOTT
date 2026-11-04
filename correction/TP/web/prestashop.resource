@@ -4,7 +4,7 @@ Library    SeleniumLibrary
 *** Variables ***
 
 ${URL}    http://www.qualifiez.fr/monPrestashop2/prestashop/index.php
-${BROWSER}    edge
+${BROWSER}    chrome
 ${LOC_RECHERCHE}    //*[@id="search_widget"]/form/input[2]
 ${LOC_result}    //*[@id="js-product-list-top"]/div[1]/p
 ${LOC_list}    //*[@id="js-product-list"]/div[1]/div/article/div/div[2]/h2/a
